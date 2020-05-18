@@ -1,0 +1,10 @@
+woda,2,butelka,cisowianka
+chleb,3,papier,zytni
+napoj,5,butelka,cocacola
+bulka,9,folia,kajzerka
+woda,4,szklo,zywiec
+woda,4,szklo,cisowianka
+Sok,4,Karton,Tymbark
+bulka,0.55,worek,kajzerka
+telefon,599,pudelko,ksiaomi
+kroksy,25,brak,kroks
